@@ -3,7 +3,7 @@
 
 Команда для запуска плейбука 
 
-ansible-playbook qUcfL5DS.txt --ask-vault-pass
+ansible-playbook lab-deploy.yml --ask-vault-pass
 
 Пароль: 123456789
 
